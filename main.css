@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0px;
+    height: 100%;
+}
+
+header {
+    height: 12.5%;
+    background: blue;
+    color: white;
+}
+
+main {
+    display: inline-block;
+    width: 75%;
+    height: 75%;
+    background: red;
+    color: white;
+}
+
+aside {
+    display: inline-block;
+    width: 25%;
+    height: 75%;
+    background: green;
+    color: white;
+}
+
+footer {
+    height: 12.5%;
+    background: purple;
+    color: white; 
+}
