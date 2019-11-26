@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: white;
+}
+
+header {
+    background: #7501FF;
+    height: 7em;   
+    color: white;
+}
+
+.side-and-main {
+    display: flex;
+}
+
+.side, .main-content {
+    height: 30em;
+}
+
+.side {
+    background: #349300;
+    width: 20em;
+}
+
+.main-content {
+    background: #EE0B01;
+    flex: auto;
+}
+
+footer {
+    background: #8C0183;
+    height: 4.5em;
+}
